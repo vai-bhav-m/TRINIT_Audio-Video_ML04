@@ -21,5 +21,8 @@ python app.py
 ```
  - Select the date from the UI
  - The predicted closing stock price of the next day can be seen on the screen
-
+ 
+ # Links: 
+   link for documentation and video:
+ - https://drive.google.com/drive/folders/1yfhTALK2rcHXiHA-FhT33sIHaLqDJ0gA?usp=sharing
  
