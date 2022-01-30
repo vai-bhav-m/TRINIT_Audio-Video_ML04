@@ -19,5 +19,7 @@
 ```
 python app.py
 ```
- - Enter the date in the UI
- - 
+ - Select the date from the UI
+ - The predicted closing stock price of the next day can be seen on the screen
+
+ 
